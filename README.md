@@ -1,11 +1,11 @@
 # ZoomCar Clone Project
 
-Hello Everyone !🌏 I am Masaiian from Web17 batch and I am presenting my individual project- clone of ZoomCar, built during construct week of Unit-3.
+Hello Everyone !🌏 I am Pallavee Kumari from Web17 batch and I am presenting my individual project- clone of ZoomCar, built during construct week of Unit-3.
 
 
 ## Details : 🔭
 
-Zoomcar, is the Largest car sharing platform, headquartered in Bangalore, India. The company was founded in 2013 by David Back and Greg Moran .[2] It currently operates in 34+ cities.[3]
+Zoomcar, is the Largest car sharing platform, headquartered in Bangalore, India. The company was founded in 2013 by David Back and Greg Moran .It currently operates in 34+ cities.
 
 🚀 The link for the same is here : https://www.zoomcar.com/in/bangalore.
 
@@ -34,6 +34,9 @@ Zoomcar, is the Largest car sharing platform, headquartered in Bangalore, India.
 ![App Screenshot](https://github.com/pallaveekumari/zoomcar/blob/master/IndivisualProject/carphotos/homepage2.png?raw=true)
 
 ![App Screenshot](https://github.com/pallaveekumari/zoomcar/blob/master/IndivisualProject/carphotos/homepage3.png?raw=true)
+
+- ### Footer 
+![App Screenshot](https://github.com/pallaveekumari/zoomcar/blob/master/IndivisualProject/carphotos/footer.png?raw=true)
 
 - ### Login Page
 ![App Screenshot](https://github.com/pallaveekumari/zoomcar/blob/master/IndivisualProject/carphotos/login.png?raw=true)
