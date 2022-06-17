@@ -40,5 +40,5 @@ function log(){
 document.getElementById("logo").addEventListener("click",logo)
 function logo()
 {
-  window.location.href="landinpage.html"
+  window.location.href="index.html"
 }

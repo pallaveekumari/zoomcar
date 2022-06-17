@@ -15,7 +15,7 @@ function loginwithemail(){
         if(userdetails[i].email==enteredData)
         {
             alert("Login Successful");
-            window.location.href="./landinpage.html";
+            window.location.href="./index.html";
             break;
         }
     }

@@ -21,10 +21,10 @@
 
 @keyframes t{
     0%{
-        content: "Order placed !!"
+        content: "Car Booked !!"
     }
     100%{
-        content: "Thank you for shopping with us !";
+        content: "Thank you for Booking Car !";
     }
 }
 #backhome{

@@ -17,7 +17,7 @@ function loginwithmobile(){
         if(userdetails[i].mobile==enteredData)
         {
             alert("Login Successful");
-            window.location.href="./landinpage.html";
+            window.location.href="./index.html";
             break;
         }
     }
