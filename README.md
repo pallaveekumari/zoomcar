@@ -68,3 +68,8 @@ Zoomcar, is the Largest car sharing platform, headquartered in Bangalore, India.
 - I learn about many CSS properties that I didn't know before.
 - My skills in JavaScript and DOM manipulation became better.
 - We all learned how to plan a project and execute that in a limited time frame.
+
+
+### Netlify Link:https://jazzy-yeot-106d56.netlify.app/
+
+### Github Link:https://github.com/pallaveekumari/zoomcar
