@@ -1,0 +1,52 @@
+#navbar{
+  height: 80px;
+  width: 100%;
+  border: 1px solid black;
+  background-color: black;
+}
+#logo{
+  background-image: url("https://www.zoomcar.com/build/98e56e8b0b91e8806885a22ac2bf69a7.png");
+  background-repeat: no-repeat;
+font-size: 440px;
+height: 40px;
+width: 182px;
+display: block;
+margin-top: 20px;
+margin-left: 80px;
+cursor: pointer;
+
+
+}
+#nav{
+  height: 100px;
+  width: 60%;
+
+  display: flex;
+  
+  align-items: center; 
+  margin-top: -72px;
+  margin-left: 700px;
+  color: white;
+  gap: 80px;
+}
+#navuser{
+background-image: url("https://www.zoomcar.com/img/icons/icons_user.png");
+background-repeat: no-repeat;
+background-position: center center;
+display: inline-block;
+width: 40px;
+height: 40px;
+ margin-left: -70px; 
+ /* padding: 10px; */
+}
+body{
+padding: 0;
+margin: 0;
+}
+#login{
+cursor: pointer;
+}
+body{
+padding: 0;
+margin: 0;
+}

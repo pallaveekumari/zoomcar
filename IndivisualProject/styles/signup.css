@@ -1,0 +1,54 @@
+#mob{
+    display: flex;
+    gap: 20px;
+}
+#mobo{
+height: 30px;
+width: 60px;
+border: 1px solid green;
+margin-top: 20px;
+}
+#mobi{
+    height: 40px;
+    width: 450px;
+    border: 1px solid green;
+    margin-top: 20px;
+}
+#em{
+    height: 40px;
+    width: 400px;
+    border: 1px solid green;
+    margin-top: 30px;
+}
+#signup{
+    height: 550px;
+    width: 30%;
+ 
+    margin: auto;
+}
+#pass{
+    height: 40px;
+    width: 400px;
+    border: 1px solid green;
+    margin-top: 30px;
+}
+#name{
+    height: 40px;
+    width: 400px;
+    border: 1px solid green;
+    margin-top: 30px;
+
+}
+#OTP{
+cursor: pointer;
+
+}
+#OTP:hover{
+    color: blue;
+}
+#otp{
+    height: 40px;
+    width: 504px;
+    border: 1px solid green;
+    margin-top: 20px;
+}

@@ -1,0 +1,53 @@
+
+#mobb{
+    height: 50px;
+    width: 100px;
+  margin-top: 10px;
+  border-color:  #10A310;
+  border-radius: 4px;
+}
+#indiaimgg{
+    height: 20px;
+    width: 25px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#mobile{
+    
+    display: flex;
+    margin-left: 400px;
+    margin-top: 30px;
+    
+}
+#mobnum{
+    height: 60px;
+    width: 600px;
+  
+    border-color:  #10A310;
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+#enter{
+    margin-left: 420px; 
+}
+#cont{
+    height: 55px;
+    width: 450px;
+   
+    border-radius: 4px;
+    border-color:  #10A310;
+margin-top: 400px;
+margin-left: 500px;
+cursor: pointer;
+color: white;
+font-weight: bold;
+
+}
+#cont:hover{
+    background-color: #10A310;
+}
+
+#we{
+    margin-left: 420px; 
+}

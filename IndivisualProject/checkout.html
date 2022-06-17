@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles/checkout.css">
+    <link rel="stylesheet" href="styles/navbar.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200&family=IBM+Plex+Sans:wght@200&family=Poppins:wght@600&family=Roboto:wght@300&display=swap" rel="stylesheet">
+    
+</head>
+<body>
+    <div id="navbar"></div>
+    
+    <div id="check">
+        
+        <div id="check1">
+            <h3 class="heading">Checkout Summary</h3>
+            <div id="innerDiv">
+                <div class="detail">
+                    <h4>Trip Fare (Unlimited KMs without Fuel)</h4>
+                    <h4 id="price">0</h4>
+                </div>
+                <div class="detail">
+                    <p>Damage Protection Fee</p>
+                    <h4 id="price">+ Rs 166</h4>
+                </div>
+                <div class="detail">
+                    <h4>Total Fare</h4>
+                    <h4 id="total">0</h4>
+                </div>
+                <div class="detail">
+                    <h4>Promo Code</h4>
+                    <input type="text" placeholder="enter code" id="promoInput">
+                    <button id="btn">Enter</button>
+                </div>
+               
+                <div class="detail">
+                    <h4>Final Fare</h4>
+                    <h4 id="final">0</h4>
+                </div>
+                <button id="checkoutbtn">ppp</button>
+            </div>
+            
+        </div>
+        <div id="check2">
+            <h3 class="heading">Booking Details</h3>
+            <div id="innerDiv2">
+                <div id="nameandcar">
+                    <div id="name">
+                        <h2 id="carname"></h2>
+                        <h4 id="cartype"></h4>
+                    </div>
+                    <div id="car">
+                        <img id="carimg">
+                    </div>
+                </div>
+                <h4 id="startTime"></h4>
+                <h4 id="endTime"></h4>
+                <h4 id="rating"></h4>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script src="./scripts/checkout.js" type="module"></script>

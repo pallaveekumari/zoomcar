@@ -1,0 +1,104 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+#check1{
+    height: 550px;
+    width: 47%;
+    /* border: 1px solid red; */
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+#check2
+{
+    height: 450px;
+    width: 47%;
+    /* border: 1px solid red;   */
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#check{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    
+}
+#innerDiv{
+    height: 430px;
+    width: 100%;
+    /* border: 1px solid red; */
+    padding: 15px;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 2px #666
+}
+.heading{
+    margin-top: -10px;
+    margin-left: 20px;
+
+}
+.detail{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(0, 0, 0,0.3);
+    padding: 0 20px;
+    align-items: center;
+}
+#promoInput{
+    height: 25px;
+}
+
+#btn{
+    height: 30px;
+    width: 80px;
+    background-color: #10a310;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#checkoutbtn{
+    height: 50px;
+    width: 80%;
+    background-color: #10a310;
+    margin-left: 50px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#innerDiv2{
+    box-shadow: 0px 1px 2px #666;
+    height: 90%;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#nameandcar{
+    display: flex;
+    height: 25%;
+    /* border:1px solid red; */
+    justify-content: space-between;
+}
+
+#car{
+    height: 100%;
+}
+#carimg{
+    height: 100%;
+}
+
+#startTime{
+    color: green;
+}
+#endTime{
+    color: red;
+}

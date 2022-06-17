@@ -1,0 +1,41 @@
+#tree{
+    height: 400px;
+    width: 35%;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+#treeimg{
+    height: 100%;
+    width: 100%;
+}
+#login1{
+    height: 250px;
+    width: 30%;
+ 
+    margin: auto;
+}
+#continue{
+    color: green;
+}
+#continuevia
+{
+    color: green;
+}
+#india{
+    display: flex;
+    /* box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px; */
+}
+  
+
+#indiaimg{
+    height: 20px;
+    width: 25px;
+    margin-left: 20px;
+
+}
+
+#mobile{
+    margin-left: 50px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+    cursor: pointer;
+}
